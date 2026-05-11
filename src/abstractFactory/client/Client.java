@@ -1,4 +1,4 @@
-package Client;
+package abstractFactory.client;
 
 import abstractFactory.gui.service.GUI;
 import abstractFactory.uiElements.service.Button;

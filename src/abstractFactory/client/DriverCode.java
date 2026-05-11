@@ -1,4 +1,5 @@
-import Client.Client;
+package abstractFactory.client;
+import abstractFactory.client.Client;
 import abstractFactory.gui.service.impl.DarkGUI;
 import abstractFactory.gui.service.impl.LightGUI;
 
